@@ -1,3 +1,6 @@
+<h2>SISTEM INFORMASI KEGIATAN EKSTRAKURIKULER</h2>
+<br>
+
 NAMA : Dimas Adjie Wibowo
 <br>
 Kelas : XII RPL A
